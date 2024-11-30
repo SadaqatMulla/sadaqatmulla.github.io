@@ -1,6 +1,6 @@
 ![Sadaqat Faqih Mulla](/assets/image/sadaqat-mulla.png)
 
-**Welcome to Portfolio of Sadaqat Faqih Mulla**
+**Welcome... currently the site is under development, please explore below links or email me if you have any questions... Thank You!**
 
 🔗 [Visit TISS Webprofile](https://tiss.edu/view/9/employee/sadaqat-faqih-mulla/)  
 
