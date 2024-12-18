@@ -8,7 +8,7 @@
 - LinkedIn: [@SadaqatMulla](https://linkedin.com/in/sadaqatmulla)
 - ORCiD: [https://orcid.org/0000-0001-9831-1867](https://orcid.org/0000-0001-9831-1867)
 - ResearchGate: [Sadaqat Faqih Mulla](https://www.researchgate.net/profile/Sadaqat-Faqih-Mulla)
-- GitHub: [@SadaqatMulla](https://github.com/SadaqatMulla) 
+
 -------------------------
 
 ## 📚 Education
