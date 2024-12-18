@@ -1,6 +1,4 @@
-![Sadaqat Faqih Mulla](/assets/image/sadaqat-mulla.png)
-
-# Hi there, Welcome to my portfolio space, please explore below links or email me if you have any questions... Thank You!
+<img src="/assets/image/sadaqat-mulla.png" alt="Description of image" width="200" height="250">
 
 🔗 [Visit TISS Webprofile](https://tiss.edu/view/9/employee/sadaqat-faqih-mulla/)  
 
@@ -10,7 +8,7 @@
 - LinkedIn: [@SadaqatMulla](https://linkedin.com/in/sadaqatmulla)
 - ORCiD: [https://orcid.org/0000-0001-9831-1867](https://orcid.org/0000-0001-9831-1867)
 - ResearchGate: [Sadaqat Faqih Mulla](https://www.researchgate.net/profile/Sadaqat-Faqih-Mulla)
-- GitHub https://github.com/SadaqatMulla 
+- GitHub: [@SadaqatMulla](https://github.com/SadaqatMulla) 
 -------------------------
 
 ## 📚 Education
@@ -41,14 +39,14 @@ Systems Engineer and Team Lead						    		              Dec 2011 - Jan 2016
 
 ## 🔎 RESEARCH EXPERIENCE  
 ### UNESCO | Paris, France
-Principle Investigator, GEM Report 2023 background research study for South Asia		    	   Apr-Oct 2022
+- Principle Investigator, GEM Report 2023 background research study for South Asia		    	   Apr-Oct 2022
 Formulated and presented the project proposal and secured funding. 
 Led the South Asia background research study for Global Education Monitoring report 2023 with colleagues Bindu Thirumalai and Anusha Ramanathan, gathered data through mixed methods and conducted country case-studies for India and Bangladesh.
 Synthesized four country case-studies and identified South Asia regional trends in digital textbook innovations.
 Lead author of GEM Report 2023 background paper: State initiatives and innovations in technology enabled content for school education in South Asia: examining aspects of access, equity, inclusion and quality. Link 
 
 ### UNESCO MGIEP | International
-Contributing Researcher, Co-author								         Jul 2018-Feb 2019
+- Contributing Researcher, Co-author								         Jul 2018-Feb 2019
 Collaborated with researchers from across the globe for a global literature review on digital Educational resources 
 Participated and presented India case-study at the high-level consultation at Braunschweig, Germany.
 Conceptualized 8 Affordances framework, contributed India country case-study and co-authored the report Rethinking Pedagogy: Exploring the Potential of Digital Technology in Achieving Quality Education. Link 
@@ -61,12 +59,12 @@ Setup curation workflow from ideation to quality control and ensured timely deli
 Advised and coordinated with state nodal agency for planning and execution of project deliverables across the state of Telangana, India.
 
 #### Lead Technologist | Connected Learning Initiative (CLIx)			    		      Jan 2017- May 2022
-Spearheaded design experiments to develop large scale enterprise EdTech solutions in resource constrained contexts in collaboration with Prof. Nagarjuna’s Gnowledge Lab, HBCSE-TIFR, Mumbai and MIT Open Learning team under the leadership of Profs. Padma Sarangapani (TISS), Eric Klopfer and M.S. Vijay Kumar (MIT, Boston). 
-Led the technology team through design, development and deployment of a next generation learning platform - https://clixplatform.tiss.edu - in 500+ schools across India. I was responsible for two iterations of the software development life cycle (SDLC) using a design-based research approach. CLIx Platform is powered by gstudio NDF architecture developed by Nagarjuna and has been designed like a Lego board to create a DOER (distributed decentralized offline open educational resources) or internet-in-a-box through a mashup of FOSS applications.
-Led the technology team through the third SDLC, collaborated with various content teams and ensured compliance to open license mechanisms to launch the CLIx Open Educational Resources website (see https://clixoer.tiss.edu ) in Dec 2019 which remains one of the most visited educational websites of TISS.
-The innovative EdTech solutions played a pivotal role in winning two prestigious global recognitions for the project: UNESCO King Hamad Prize 2017 for the Innovative Use of Information and Communication Technology (ICT) in the field of Education and OER Collaboration Award for Excellence 2019 by Open Education Consortium. I was a significant co-author for both the award applications.
-Devised and established an end-to-end data workflow to capture, batch process, retrieve, and sync learning platform data from 500+ schools including those in remote areas to central server using django-python framework web apps, APIs, python and shell scripts, syncthing and docker technologies. Further, steered the team to process, automate,analyze and visualize learning platform data using R, Python and D3.js (see https://clixdashboard.tiss.edu and https://gstudio-docs.readthedocs.io/en/latest/).
-Collaborated with research teams at TISS and MIT to gather, process and analyze learning platform data from 300+ schools (stored as PostgreSQL, JSON and mongoDB databases) which contributed to project research report: Making EdTech Work for Secondary School Students & their Teachers: A Report of Research Findings from CLIx Phase I. Link 
+- Spearheaded design experiments to develop large scale enterprise EdTech solutions in resource constrained contexts in collaboration with Prof. Nagarjuna’s Gnowledge Lab, HBCSE-TIFR, Mumbai and MIT Open Learning team under the leadership of Profs. Padma Sarangapani (TISS), Eric Klopfer and M.S. Vijay Kumar (MIT, Boston). 
+- Led the technology team through design, development and deployment of a next generation learning platform - https://clixplatform.tiss.edu - in 500+ schools across India. I was responsible for two iterations of the software development life cycle (SDLC) using a design-based research approach. CLIx Platform is powered by gstudio NDF architecture developed by Nagarjuna and has been designed like a Lego board to create a DOER (distributed decentralized offline open educational resources) or internet-in-a-box through a mashup of FOSS applications.
+- Led the technology team through the third SDLC, collaborated with various content teams and ensured compliance to open license mechanisms to launch the CLIx Open Educational Resources website (see https://clixoer.tiss.edu ) in Dec 2019 which remains one of the most visited educational websites of TISS.
+- The innovative EdTech solutions played a pivotal role in winning two prestigious global recognitions for the project: UNESCO King Hamad Prize 2017 for the Innovative Use of Information and Communication Technology (ICT) in the field of Education and OER Collaboration Award for Excellence 2019 by Open Education Consortium. I was a significant co-author for both the award applications.
+- Devised and established an end-to-end data workflow to capture, batch process, retrieve, and sync learning platform data from 500+ schools including those in remote areas to central server using django-python framework web apps, APIs, python and shell scripts, syncthing and docker technologies. Further, steered the team to process, automate,analyze and visualize learning platform data using R, Python and D3.js (see https://clixdashboard.tiss.edu and https://gstudio-docs.readthedocs.io/en/latest/).
+- Collaborated with research teams at TISS and MIT to gather, process and analyze learning platform data from 300+ schools (stored as PostgreSQL, JSON and mongoDB databases) which contributed to project research report: Making EdTech Work for Secondary School Students & their Teachers: A Report of Research Findings from CLIx Phase I. Link 
 
 ### EDUsummIT											               International
 #### EDUsummIT 2022-23
@@ -83,26 +81,26 @@ I have worked in collaborative projects with academics, researchers and practiti
 ## :school: TEACHING EXPERIENCE  
 ### Tata Institute of Social Sciences									2019-present
 ### Courses designed, developed and taught:						       	         Multiple cohorts	
-ET07-Emerging Technologies for Education (compulsory course for interdisciplinary MA in Education and Technology programme). Link
-CETECB02-Education, Technology and Society (transdisciplinary open elective course for students from any disciplinary masters degree at TISS)
-ESP14-Educational Technology - Designing Technology Enabled Learning Experiences  (advanced specialization course for MA in Education programme)
-ES2-Technology for School Education (compulsory course for pre-service teachers Bachelor of Education programme)
-PS18-Designing Digital  Tools and Resources (compulsory course for pre-service teachers Bachelor of Education programme)
-PC2-ICT Competencies for Lifelong Learning (professional competency building course for all Education related postgraduate/masters programmes)
+- ET07-Emerging Technologies for Education (compulsory course for interdisciplinary MA in Education and Technology programme). Link
+- CETECB02-Education, Technology and Society (transdisciplinary open elective course for students from any disciplinary masters degree at TISS)
+- ESP14-Educational Technology - Designing Technology Enabled Learning Experiences  (advanced specialization course for MA in Education programme)
+- ES2-Technology for School Education (compulsory course for pre-service teachers Bachelor of Education programme)
+- PS18-Designing Digital  Tools and Resources (compulsory course for pre-service teachers Bachelor of Education programme)
+- PC2-ICT Competencies for Lifelong Learning (professional competency building course for all Education related postgraduate/masters programmes)
 
 ### Courses taught:									        	         	            Multiple cohorts
-ESP13-Educational Technology - Foundations  (advanced specialization course for MA in Education programme)
-OC11-ICT and Education (advanced specialization course for MA in Education Elementary executive blended programme)
+- ESP13-Educational Technology - Foundations  (advanced specialization course for MA in Education programme)
+- OC11-ICT and Education (advanced specialization course for MA in Education Elementary executive blended programme)
 
 ### Online courses:
-As part of TISS - Open University, UK collaboration to explore Digital Badges in teacher professional development programmes, co-developed a multilingual MOOC course with Prof. Freda Wolfenden DB03ATLUOER-Active Teaching and Learning using OER Link.  	                     		        April 2021  
-Co-developed an online course E09-ICT Lab in School. TISSx. Link. 		  		  February 2021
-Co-developed a MOOC course COOLTOL01-Technologies for Online Learning in School Education that was taken by more than 1200+ learners. Link. 					     	   	     August 2020
+- As part of TISS - Open University, UK collaboration to explore Digital Badges in teacher professional development programmes, co-developed a multilingual MOOC course with Prof. Freda Wolfenden DB03ATLUOER-Active Teaching and Learning using OER Link.  	                     		        April 2021  
+- Co-developed an online course E09-ICT Lab in School. TISSx. Link. 		  		  February 2021
+- Co-developed a MOOC course COOLTOL01-Technologies for Online Learning in School Education that was taken by more than 1200+ learners. Link. 					     	   	     August 2020
 
 ### Research dissertation advisory/guideship:							    	     2019-present
-Since 2019 advised eight students for their masters research dissertation broadly covering themes of technology integration in education, online learning, equity and marginalization, empathy, programme evaluation and inclusivity. Currently I am supervising two dissertations and a capstone project.
+- Since 2019 advised eight students for their masters research dissertation broadly covering themes of technology integration in education, online learning, equity and marginalization, empathy, programme evaluation and inclusivity. Currently I am supervising two dissertations and a capstone project.
 Mentored four teacher education fellows from Afghanistan, Nepal and Maldives to conduct action research on active teaching-learning with OER as part of the MATPD project.                   			   Apr-Dec 2022
-Supervised two teacher educators from Afghanistan for postgraduate field-work research through a partnership funded by the Swedish Committee for Afghanistan.                		      	    	         Jul 2019-Jun 2020
+- Supervised two teacher educators from Afghanistan for postgraduate field-work research through a partnership funded by the Swedish Committee for Afghanistan.                		      	    	         Jul 2019-Jun 2020
 
 ## 🔧 Technologies & Tools
 
