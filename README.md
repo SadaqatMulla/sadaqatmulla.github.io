@@ -30,35 +30,35 @@ Percentile Score: 99.73
 ## 📈 EMPLOYMENT HISTORY
 
 ### Tata Institute of Social Sciences	| Mumbai, India
-Teaching Faculty							        	         		            Jul 2019-present
-Project Manager (Educational Technology)				        	      Jan 2017-present
+- Teaching Faculty	|						        	         		            Jul 2019-present
+- Project Manager (Educational Technology)	|			        	      Jan 2017-present
 
 ### Tata Consultancy Services Ltd | Bangalore, India
-Systems Engineer and Team Lead						    		              Dec 2011 - Jan 2016
+- Systems Engineer and Team Lead |						    		              Dec 2011 - Jan 2016
 
 
 ## 🔎 RESEARCH EXPERIENCE  
 ### UNESCO | Paris, France
-- Principle Investigator, GEM Report 2023 background research study for South Asia		    	   Apr-Oct 2022
+- Principle Investigator, GEM Report 2023 background research study for South Asia	|	    	   Apr-Oct 2022
 Formulated and presented the project proposal and secured funding. 
 Led the South Asia background research study for Global Education Monitoring report 2023 with colleagues Bindu Thirumalai and Anusha Ramanathan, gathered data through mixed methods and conducted country case-studies for India and Bangladesh.
 Synthesized four country case-studies and identified South Asia regional trends in digital textbook innovations.
 Lead author of GEM Report 2023 background paper: State initiatives and innovations in technology enabled content for school education in South Asia: examining aspects of access, equity, inclusion and quality. Link 
 
 ### UNESCO MGIEP | International
-- Contributing Researcher, Co-author								         Jul 2018-Feb 2019
+- Contributing Researcher, Co-author	|							         Jul 2018-Feb 2019
 Collaborated with researchers from across the globe for a global literature review on digital Educational resources 
 Participated and presented India case-study at the high-level consultation at Braunschweig, Germany.
 Conceptualized 8 Affordances framework, contributed India country case-study and co-authored the report Rethinking Pedagogy: Exploring the Potential of Digital Technology in Achieving Quality Education. Link 
 
 ### Tata Institute of Social Sciences									  Mumbai, India
-#### Co-Principal Investigator | IFP OER Project								   Jun-Dec 2023
+#### Co-Principal Investigator - IFP OER Project	|							   Jun-Dec 2023
 As Lead for Curation steered the overall digital resource curation efforts with 50+ experts and research associates across seven groups resulting in 800+ curated interactive resources.
 Co-developed a research-backed RAP rubric to guide OER curation process.
 Setup curation workflow from ideation to quality control and ensured timely deliverables.
 Advised and coordinated with state nodal agency for planning and execution of project deliverables across the state of Telangana, India.
 
-#### Lead Technologist | Connected Learning Initiative (CLIx)			    		      Jan 2017- May 2022
+#### Lead Technologist | Connected Learning Initiative (CLIx)		|	    		      Jan 2017- May 2022
 - Spearheaded design experiments to develop large scale enterprise EdTech solutions in resource constrained contexts in collaboration with Prof. Nagarjuna’s Gnowledge Lab, HBCSE-TIFR, Mumbai and MIT Open Learning team under the leadership of Profs. Padma Sarangapani (TISS), Eric Klopfer and M.S. Vijay Kumar (MIT, Boston). 
 - Led the technology team through design, development and deployment of a next generation learning platform - https://clixplatform.tiss.edu - in 500+ schools across India. I was responsible for two iterations of the software development life cycle (SDLC) using a design-based research approach. CLIx Platform is powered by gstudio NDF architecture developed by Nagarjuna and has been designed like a Lego board to create a DOER (distributed decentralized offline open educational resources) or internet-in-a-box through a mashup of FOSS applications.
 - Led the technology team through the third SDLC, collaborated with various content teams and ensured compliance to open license mechanisms to launch the CLIx Open Educational Resources website (see https://clixoer.tiss.edu ) in Dec 2019 which remains one of the most visited educational websites of TISS.
@@ -66,7 +66,7 @@ Advised and coordinated with state nodal agency for planning and execution of pr
 - Devised and established an end-to-end data workflow to capture, batch process, retrieve, and sync learning platform data from 500+ schools including those in remote areas to central server using django-python framework web apps, APIs, python and shell scripts, syncthing and docker technologies. Further, steered the team to process, automate,analyze and visualize learning platform data using R, Python and D3.js (see https://clixdashboard.tiss.edu and https://gstudio-docs.readthedocs.io/en/latest/).
 - Collaborated with research teams at TISS and MIT to gather, process and analyze learning platform data from 300+ schools (stored as PostgreSQL, JSON and mongoDB databases) which contributed to project research report: Making EdTech Work for Secondary School Students & their Teachers: A Report of Research Findings from CLIx Phase I. Link 
 
-### EDUsummIT											               International
+### EDUsummIT	|										               International
 #### EDUsummIT 2022-23
 As a member of thematic working group TWG-3 of EDUsummIT 2022-23 collaborated with an international group of researchers led by Profs. Don Passey and Jean Gabin Ntebutse, and contributed to research on the theme: Inclusion of excluded populations: access and learning optimization via IT in the post-pandemic era. Presented the paper in EDUsummIT 2022-23 held at Kyoto University, Japan on June 1-3, 2023. Link
 
@@ -79,7 +79,7 @@ As a member of the thematic working group TWG-7 of EDUsummIT 2019 worked with an
 I have worked in collaborative projects with academics, researchers and practitioners in the national and international settings such as NCERT (New Delhi), various SCERTs, HBCSE-TIFR (Mumbai), MIT (Cambridge, USA), UNESCO and UNICEF.  
 
 ## :school: TEACHING EXPERIENCE  
-### Tata Institute of Social Sciences									2019-present
+### Tata Institute of Social Sciences		|							2019-present
 ### Courses designed, developed and taught:						       	         Multiple cohorts	
 - ET07-Emerging Technologies for Education (compulsory course for interdisciplinary MA in Education and Technology programme). Link
 - CETECB02-Education, Technology and Society (transdisciplinary open elective course for students from any disciplinary masters degree at TISS)
