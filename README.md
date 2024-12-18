@@ -78,7 +78,7 @@ As a member of the thematic working group TWG-7 of EDUsummIT 2019 worked with an
 
 I have worked in collaborative projects with academics, researchers and practitioners in the national and international settings such as NCERT (New Delhi), various SCERTs, HBCSE-TIFR (Mumbai), MIT (Cambridge, USA), UNESCO and UNICEF.  
 
-## :school: TEACHING EXPERIENCE  
+## 👨‍🏫 TEACHING EXPERIENCE  
 ### Tata Institute of Social Sciences		|							2019-present
 ### Courses designed, developed and taught:						       	         Multiple cohorts	
 - ET07-Emerging Technologies for Education (compulsory course for interdisciplinary MA in Education and Technology programme). Link
@@ -102,7 +102,7 @@ I have worked in collaborative projects with academics, researchers and practiti
 Mentored four teacher education fellows from Afghanistan, Nepal and Maldives to conduct action research on active teaching-learning with OER as part of the MATPD project.                   			   Apr-Dec 2022
 - Supervised two teacher educators from Afghanistan for postgraduate field-work research through a partnership funded by the Swedish Committee for Afghanistan.                		      	    	         Jul 2019-Jun 2020
 
-## 🔧 Technologies & Tools
+## 💻⚙️ SKILLS AND COMPETENCIES
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
