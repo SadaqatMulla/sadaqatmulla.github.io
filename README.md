@@ -1,10 +1,10 @@
 <img src="/assets/image/sadaqat-mulla.png" alt="Description of image" width="200" height="250">
 
-🔗 [Visit TISS Webprofile](https://tiss.edu/view/9/employee/sadaqat-faqih-mulla/)  
+🔗 [Visit Northwestern School of Education & Social Policy Webprofile](https://sesp.northwestern.edu/graduate-professional/computer-science-and-learning-sciences/phd-students/)  
 
 📄 [CV](https://drive.google.com/file/d/11mKsATRe-QmPi2QRx9nWchCQUeBv6Tbd/view?usp=sharing)  
 
-📧 Email: sadaqat.mulla@tiss.ac.in | sadaqat.mulla.15@alumni.ucl.ac.uk
+📧 Email: sadaqat.mulla@u.northwestern.edu | sadaqat.mulla.15@alumni.ucl.ac.uk
 - LinkedIn: [@SadaqatMulla](https://linkedin.com/in/sadaqatmulla)
 - ORCiD: [https://orcid.org/0000-0001-9831-1867](https://orcid.org/0000-0001-9831-1867)
 - ResearchGate: [Sadaqat Faqih Mulla](https://www.researchgate.net/profile/Sadaqat-Faqih-Mulla)
@@ -12,6 +12,8 @@
 -------------------------
 
 ## 📚 Education
+### Northwestern University, IL, USA
+PhD in Computer Science & Learning Sciences | *2025 - present*
 
 ### University Grants Commission, New Delhi, India
 Qualified National Eligibility Test for Assistant Professorship | *Jun 2019*  
@@ -30,8 +32,8 @@ Percentile Score: 99.73
 ## 📈 EMPLOYMENT HISTORY
 
 ### Tata Institute of Social Sciences	| Mumbai, India
-- Teaching Faculty	|						        	         		            Jul 2019-present
-- Project Manager (Educational Technology)	|			        	      Jan 2017-present
+- Teaching Faculty (Educational Technology)	|						        	Jul 2019-Aug 2025
+- Project Manager (Educational Technology)	|			        	      Jan 2017-Aug 2025
 
 ### Tata Consultancy Services Ltd | Bangalore, India
 - Systems Engineer and Team Lead |						    		              Dec 2011 - Jan 2016
@@ -122,16 +124,18 @@ Poetry, learning languages, tinkering, cooking, digital interactive tools
 
 ## 🌱 PUBLICATIONS (selected, in order of significance)
 
-1. Charania, A., Mulla, S., & Sen, S. (forthcoming in 2025). Constructive Teaching and Learning: Technology for School Education. In Routledge Book Series for Teachers and Teaching. London, New Delhi: Routledge.
-2. Mulla, S., Thirumalai, B., & Ramanathan, A. (2023). State initiatives and innovations in technology enabled content for school education in South Asia: examining aspects of access, equity, inclusion and quality. In Background paper prepared for the Global Education Monitoring Report 2023. Retrieved from UNESCO website: https://unesdoc.unesco.org/ark:/48223/pf0000386084.locale=en 
-3. Mulla, S., & Nagarjuna, G. (2023). EdTech as an Empowering Tool: Designing Digital Learning Environments to Extend the Action Space for Learning and Foster Digital Agency. In T. Keane, C. Lewin, T. Brinda, & R. Bottino (Eds.), Towards a Collaborative Society Through Creative Learning. WCCE 2022. IFIP Advances in Information and Communication Technology (pp. 69–74). https://doi.org/10.1007/978-3-031-43393-1_8 
-4. CETE. (2023). Curating and Creating OER to Enable Active Learning and Professional Development in Teacher Education Institutions: A Policy and Practice Paper. Retrieved from https://bit.ly/cete-ppp 
-5. Shende, S., & Mulla, S. (2024). Teachers as Troubleshooters: Making ICT Lab in School an Active Space for Innovative Teaching and Learning. Proceedings of International Conference on Technology 4 Education 2023 (T4E2023), Mumbai, India. https://doi.org/10.5281/zenodo.13973682 
-6. Passey, D., Ntebutse, J. G., Mulla, S., Ahmad, M. Y. A., Cochrane, J., Collin, S., … Somasi, S. (2024). Populations Digitally Excluded from Education: Issues, Factors, Contributions and Actions for Policy, Practice and Research in a Post-Pandemic Era. Technology, Knowledge and Learning. https://doi.org/10.1007/s10758-024-09767-w 
-7. CETE. (2023). ICT Infrastructure for Teacher Education Institutions: A Policy and Practice Paper. Retrieved from https://bit.ly/cete-ppp
-8. CETE. (2023). RAP Curation Rubric to Evaluate OER’s Pedagogical Potential for IFP Devices: A Policy and Practice Paper. Retrieved from https://bit.ly/cete-ppp 
-9. Prestridge, S., Jacobsen, M., Mulla, S., Paredes, S. G., & Charania, A. (2021). New Alignments for the Digital Age: Insights into Connected Learning. Educational Technology Research and Development. https://doi.org/10.1007/s11423-021-09968-5 
-10. Co-authored report UNESCO-MGIEP. (2019) Rethinking Pedagogy - Exploring the Potential of Digital Technology in Achieving Quality Education. New Delhi: UNESCO-MGIEP. Retrieved from https://unesdoc.unesco.org/ark:/48223/pf0000372786 
-11. Mulla, S. (2016). Education, Inequality and Community: Understanding ‘voluntary tutoring’ – a case study in London. MA dissertation thesis. University College London.
+1. Charania, A., Mulla, S., & Sen, S. (forthcoming). Constructive Teaching and Learning: Technology for School Education. In Routledge Book Series for Teachers and Teaching. London, New Delhi: Routledge.
+2. Mulla, S. & Mammen, A. (2025). Curation as Design: Co-Designing Learning Experiences for Public School Education System. In Rajala, A., Cortez, A., Hofmann, R., Jornet, A., Lotz-Sisitka, H., & Markauskaite, L. (Eds.), Proceedings of the 19th International Conference of the Learning Sciences - ICLS 2025 (pp. 2253-2257). International Society of the Learning Sciences. https://doi.org/10.22318/icls2025.435892  
+3. Mammen, A., Mulla, S. (2025). Curating Open Educational Resources for a School Education System: An Experience Report. In: Mishra, S., Kothiyal, A., Iyer, S., Sahasrabudhe, S., Lingnau, A., Kuo, R. (eds) Proceedings of the International Conference on Technology 4 Education 2024, Volume 2. T4E 2024. Lecture Notes in Educational Technology. Springer, Singapore. https://doi.org/10.1007/978-981-95-1734-3_37
+4. Mulla, S., Thirumalai, B., & Ramanathan, A. (2023). State initiatives and innovations in technology enabled content for school education in South Asia: examining aspects of access, equity, inclusion and quality. In Background paper prepared for the Global Education Monitoring Report 2023. Retrieved from UNESCO website: https://unesdoc.unesco.org/ark:/48223/pf0000386084.locale=en
+5. Mulla, S., & Nagarjuna, G. (2023). EdTech as an Empowering Tool: Designing Digital Learning Environments to Extend the Action Space for Learning and Foster Digital Agency. In T. Keane, C. Lewin, T. Brinda, & R. Bottino (Eds.), Towards a Collaborative Society Through Creative Learning. WCCE 2022. IFIP Advances in Information and Communication Technology (pp. 69–74). https://doi.org/10.1007/978-3-031-43393-1_8
+6. CETE. (2023). Curating and Creating OER to Enable Active Learning and Professional Development in Teacher Education Institutions: A Policy and Practice Paper. Retrieved from https://bit.ly/cete-ppp
+7. Shende, S., & Mulla, S. (2024). Teachers as Troubleshooters: Making ICT Lab in School an Active Space for Innovative Teaching and Learning. Proceedings of International Conference on Technology 4 Education 2023 (T4E2023), Mumbai, India. https://doi.org/10.5281/zenodo.13973682
+8. Passey, D., Ntebutse, J. G., Mulla, S., Ahmad, M. Y. A., Cochrane, J., Collin, S., … Somasi, S. (2024). Populations Digitally Excluded from Education: Issues, Factors, Contributions and Actions for Policy, Practice and Research in a Post-Pandemic Era. Technology, Knowledge and Learning. https://doi.org/10.1007/s10758-024-09767-w
+9. CETE. (2023). ICT Infrastructure for Teacher Education Institutions: A Policy and Practice Paper. Retrieved from https://bit.ly/cete-ppp
+10. CETE. (2023). RAP Curation Rubric to Evaluate OER’s Pedagogical Potential for IFP Devices: A Policy and Practice Paper. Retrieved from https://bit.ly/cete-ppp
+11. Prestridge, S., Jacobsen, M., Mulla, S., Paredes, S. G., & Charania, A. (2021). New Alignments for the Digital Age: Insights into Connected Learning. Educational Technology Research and Development. https://doi.org/10.1007/s11423-021-09968-5
+12. Co-authored report UNESCO-MGIEP. (2019) Rethinking Pedagogy - Exploring the Potential of Digital Technology in Achieving Quality Education. New Delhi: UNESCO-MGIEP. Retrieved from https://unesdoc.unesco.org/ark:/48223/pf0000372786
+13. Mulla, S. (2016). Education, Inequality and Community: Understanding ‘voluntary tutoring’ – a case study in London. MA dissertation thesis. University College London.
 
-Thank you for visiting my profile! Let's connect and collaborate on exciting projects.
+Thank you for visiting my profile! Let's connect, exchange our work and if possible collaborate on exciting projects to make teaching and learning more meaningful, inclusive and worthwhile.
