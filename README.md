@@ -1,6 +1,7 @@
 <img src="/assets/image/sadaqat-mulla.png" alt="Description of image" width="200" height="250">
 
-🔗 [Visit Northwestern School of Education & Social Policy Webprofile](https://sesp.northwestern.edu/graduate-professional/computer-science-and-learning-sciences/phd-students/)  
+Thank you for visiting my profile! Let’s connect, exchange our work and if possible collaborate on exciting projects to make teaching and learning more meaningful, inclusive and worthwhile experience for all.  
+🔗 [Visit Northwestern SESP Webprofile](https://sesp.northwestern.edu/graduate-professional/computer-science-and-learning-sciences/phd-students/)  
 
 📄 [CV](https://drive.google.com/file/d/11mKsATRe-QmPi2QRx9nWchCQUeBv6Tbd/view?usp=sharing)  
 
